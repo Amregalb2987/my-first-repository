@@ -2,4 +2,4 @@
 
 Now we're learning how to merge forks!?
 Doing some editing to the remote repository on GitHub! Weeeee!!!    
-Doing more practice using GitHub yay yay
+Doing even more practice using GitHub!
